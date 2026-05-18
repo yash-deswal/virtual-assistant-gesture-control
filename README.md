@@ -26,5 +26,5 @@ conda activate ./env
 
 ## How to Run
 ```bash
-python src/main.py
+python -m src.main
 ```
