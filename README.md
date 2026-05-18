@@ -17,12 +17,7 @@ A modular gesture-controlled virtual mouse and keyboard system using Python 3.10
 - `env/`: Conda environment.
 
 ## Environment Setup
-The project uses a conda environment.
-
-To activate the environment on macOS M1:
-```bash
-conda activate ./env
-```
+Use `mediapipe-silicon` for Apple Silicon Macs.
 
 ## How to Run
 ```bash
